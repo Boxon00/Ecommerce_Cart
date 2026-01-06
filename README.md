@@ -38,7 +38,7 @@ A simple, opinionated Laravel e-commerce shopping cart application with Livewire
 - PHP 8.2+
 - Laravel ^12.0
 - Livewire ^3.x
-- MySQL / Postgres / SQLite (configurable via `.env`)
+- SQLite (configurable via `.env`)
 - Node / Vite for frontend assets
 - PHPUnit for testing
 
